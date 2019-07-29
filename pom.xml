@@ -5,7 +5,7 @@
 
     <artifactId>spring-bean-factory-parent</artifactId>
     <groupId>com.parisesoftware</groupId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Spring Bean Factory :: Parent Pom</name>
     <description>a Factory to Encapsulate Fetching Spring Wired Beans</description>
     <packaging>pom</packaging>
@@ -28,7 +28,7 @@
         <connection>scm:git:git://github.com/AParise1217/spring-bean-factory.git</connection>
         <developerConnection>scm:git:git@github.com:AParise1217/spring-bean-factory.git</developerConnection>
         <url>https://github.com/AParise1217/spring-bean-factory</url>
-        <tag>HEAD</tag>
+        <tag>spring-bean-factory-parent-1.0.0</tag>
     </scm>
 
     <licenses>
