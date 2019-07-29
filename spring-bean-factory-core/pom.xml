@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>spring-bean-factory-core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>Spring Bean Factory :: Core</name>
     <description>Core Logic for the Spring Bean Factory</description>
     <packaging>jar</packaging>
@@ -12,7 +12,7 @@
     <parent>
         <groupId>com.parisesoftware</groupId>
         <artifactId>spring-bean-factory-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1-SNAPSHOT</version>
     </parent>
 
 </project>
